@@ -1,0 +1,16 @@
+Component,Specs/Details
+12V Battery,"Lead-acid or LiFePO4, 12V, 10Ah minimum"
+PWM Oscillator,"Adjustable frequency 1-40 kHz, 12V input, low amp draw"
+Step-Up Transformer,"Custom wound, 12V in → up to 1-2 kV out, ferrite core"
+Blocking Diode,"High voltage, fast recovery diode, 3A+, 2kV rating"
+Water Fuel Cell (Tubular),"316 SS, 1"" OD outer / ¾"" ID inner tube, 1-2mm spacing"
+Distilled Water + Electrolyte,"KOH or NaOH, 5–10% concentration"
+Gas Bubbler + Flame Arrestor,Glass or polycarbonate bubbler with SS mesh insert
+HHO Gas Tubing,"Heat-resistant silicone or PTFE, 1/4"" or 3/8"" ID"
+Injection Port,Manifold vacuum tap or carburetor intake port adapter
+Modified ICE Engine,"Gasoline engine, timing retarded 10–15°, spark ignition"
+Relay + Fuse,"Inline automotive fuse (10–20A), 12V relay rated 30A"
+Microcontroller (Optional),Arduino Nano/Uno for PWM tuning and sensors
+Voltage/Current Meter,"DC voltmeter/ammeter panel, 0–20V, 0–30A"
+Flow Meter (Optional),Hydrogen-compatible flow sensor for HHO monitoring
+Mounting Brackets,Custom 3D printed or aluminum mounts for engine bay
